@@ -1,7 +1,7 @@
 {
   "name": "multibyte-substr",
   "version": "0.1.0",
-  "description": "My super module",
+  "description": "multibyte substr",
   "license": "MIT",
   "repository": "akameco/multibyte-substr",
   "author": {
@@ -19,7 +19,12 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "substr",
+    "string",
+    "multibyte",
+    "bytes",
+    "text",
+    "str"
   ],
   "dependencies": {},
   "devDependencies": {
