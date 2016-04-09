@@ -1,6 +1,6 @@
 {
   "name": "multibyte-substr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "multibyte substr",
   "license": "MIT",
   "repository": "akameco/multibyte-substr",
