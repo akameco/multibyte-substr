@@ -10,7 +10,7 @@
     "url": "akameco.github.io"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=4"
   },
   "scripts": {
     "test": "xo && ava"
@@ -29,6 +29,6 @@
   "dependencies": {},
   "devDependencies": {
     "ava": "^0.16.0",
-    "xo": "^0.16.0"
+    "xo": "^0.17.0"
   }
 }
