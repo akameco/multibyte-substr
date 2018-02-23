@@ -1,5 +1,7 @@
 # multibyte-substr [![Build Status](https://travis-ci.org/akameco/multibyte-substr.svg?branch=master)](https://travis-ci.org/akameco/multibyte-substr)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/multibyte-substr.svg)](https://greenkeeper.io/)
+
 > multibyte substr
 
 
